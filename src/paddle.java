@@ -9,11 +9,11 @@ public class paddle {
     }
 
     public void moveUp(){
-        y = y-10;
+        y = y-1;
     }
 
     public void moveDown(){
-        y = y+10;
+        y = y+1;
     }
 
     public int getX(){
